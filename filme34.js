@@ -205,6 +205,46 @@ window.series34Data = {"1281903":{"id":"1281903","name":"As Férias De Verão De
       "Ação"
     ],
     "trailer": "N/A"
-  },
+  },  "1064213": {
+    "id": "1064213",
+    "name": "Anora",
+    "slug": "anora",
+    "original_title": "Anora",
+    "overview": "Anora, uma jovem profissional do sexo que trabalha nas noites do Brooklyn, pode se tornar a Cinderela da sua própria história quando encontra e casa, por impulso, com o filho de um oligarca russo. Mas quando a notícia chega à Rússia, seu conto de fadas fica ameaçado com a chegada dos pais dele a Nova York para cancelar o casamento.",
+    "first_air_date": "2024-10-14",
+    "runtime": 139,
+    "episode_run_time": [
+      139
+    ],
+    "vote_average": 7.093,
+    "created_by": [
+      "Cre Film",
+      "FilmNation Entertainment"
+    ],
+    "production_companies": [
+      {
+        "name": "Cre Film"
+      },
+      {
+        "name": "FilmNation Entertainment"
+      }
+    ],
+    "cast": [
+      "Mikey Madison",
+      "Mark Eydelshteyn",
+      "Youri Borissov",
+      "Karren Karagulian",
+      "Vache Tovmasyan"
+    ],
+    "backdrop_path": "https://image.tmdb.org/t/p/original/kEYWal656zP5Q2Tohm91aw6orlT.jpg",
+    "poster_path": "https://image.tmdb.org/t/p/original/xmFdNzbUiT5XmH6rbIVGYDQHGeo.jpg",
+    "certification": "",
+    "genres": [
+      "Drama",
+      "Comédia",
+      "Romance"
+    ],
+    "trailer": "N/A"
+  },  
                     
                       };
