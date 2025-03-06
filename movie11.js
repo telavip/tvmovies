@@ -55,7 +55,7 @@ const movies11 = [{"id":347630,"slug":"dois-virgens-na-america","type":"filme","
     28
   ],
   "first_air_date": "2025-02-28",
-  "popularity": 1.666.077,
+  "popularity": 1666.077,
   "vote_average": 7.2,
   "poster_path": "https://image.tmdb.org/t/p/w200/5eZTyuqOzK4PuKrcOX3ixafBjcd.jpg",
   "networks": [
@@ -80,7 +80,7 @@ const movies11 = [{"id":347630,"slug":"dois-virgens-na-america","type":"filme","
     10749
   ],
   "first_air_date": "2024-10-14",
-  "popularity": 1.634.892,
+  "popularity": 1634.892,
   "vote_average": 7.093,
   "poster_path": "https://image.tmdb.org/t/p/w200/xmFdNzbUiT5XmH6rbIVGYDQHGeo.jpg",
   "networks": [
