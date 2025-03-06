@@ -204,7 +204,7 @@ window.series34Data = {"1281903":{"id":"1281903","name":"As Férias De Verão De
       "Aventura",
       "Ação"
     ],
-    "trailer": "N/A"
+    "trailer": "l5UViFog99Y"
   },  "1064213": {
     "id": "1064213",
     "name": "Anora",
@@ -244,7 +244,7 @@ window.series34Data = {"1281903":{"id":"1281903","name":"As Férias De Verão De
       "Comédia",
       "Romance"
     ],
-    "trailer": "N/A"
+    "trailer": "VC5MX4oSq0w"
   },  
                     
                       };
