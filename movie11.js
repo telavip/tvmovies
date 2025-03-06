@@ -68,4 +68,26 @@ const movies11 = [{"id":347630,"slug":"dois-virgens-na-america","type":"filme","
   "certification": "16",
   "runtime": 137
 },
+                  {
+  "id": 1064213,
+  "slug": "anora",
+  "type": "filme",
+  "title": "Anora",
+  "original_title": "Anora",
+  "genre_ids": [
+    18,
+    35,
+    10749
+  ],
+  "first_air_date": "2024-10-14",
+  "popularity": 1.634.892,
+  "vote_average": 7.093,
+  "poster_path": "https://image.tmdb.org/t/p/w200/xmFdNzbUiT5XmH6rbIVGYDQHGeo.jpg",
+  "networks": [
+    88152,
+    7493
+  ],
+  "certification": "",
+  "runtime": 139
+},
 ];
