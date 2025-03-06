@@ -151,4 +151,61 @@ window.series34Data = {"1281903":{"id":"1281903","name":"As Férias De Verão De
 "380831":{"id":"380831","name":"Oscar Wilde's the Nightingale and the Rose","slug":"oscar-wilde-s-the-nightingale-and-the-rose","original_title":"Oscar Wilde's the Nightingale and the Rose","overview":"N/A","first_air_date":"2015-02-09","runtime":13,"episode_run_time":[13],"vote_average":8.7,"created_by":["Aquarius Films"],"production_companies":[{"name":"Aquarius Films"}],"cast":["Mia Wasikowska","Geoffrey Rush","Benedict Samuel","David Wenham","Sophie Lowe"],"backdrop_path":"https://image.tmdb.org/t/p/original/l3SCJMPg4PMKjAQ9UrFDqUGemQo.jpg","poster_path":"https://image.tmdb.org/t/p/original/pNzoPacNvkfPKH8pHlgmp69h8P8.jpg","certification":"N/A","genres":["Animação","Drama","Fantasia","Romance"],"trailer":"N/A"},
 "615348":{"id":"615348","name":"Submerge","slug":"submerge","original_title":"Submerge","overview":"N/A","first_air_date":"2019-07-13","runtime":3,"episode_run_time":[3],"vote_average":0.0,"created_by":[],"production_companies":[],"cast":[],"backdrop_path":"https://image.tmdb.org/t/p/originalnull","poster_path":"https://image.tmdb.org/t/p/original/1yHLiPLTsoR7fI8OSfeZOc92SbL.jpg","certification":"N/A","genres":["Animação"],"trailer":"N/A"},
 "448190":{"id":"448190","name":"Лесная история","slug":"","original_title":"Лесная история","overview":"N/A","first_air_date":"1956-03-21","runtime":10,"episode_run_time":[10],"vote_average":0.0,"created_by":["Soyuzmultfilm"],"production_companies":[{"name":"Soyuzmultfilm"}],"cast":["Vladimir Volodin","Георгий Вицин","Ростислав Плятт","Larisa Bukhartseva","Георгий Милляр"],"backdrop_path":"https://image.tmdb.org/t/p/originalnull","poster_path":"https://image.tmdb.org/t/p/original/gTV4HtNdM6kJmDEXofxQ190iEVl.jpg","certification":"N/A","genres":["Animação"],"trailer":"N/A"},
-"1251685":{"id":"1251685","name":"Crossing Point","slug":"crossing-point","original_title":"Crossing Point","overview":"N/A","first_air_date":"2020-06-18","runtime":4,"episode_run_time":[4],"vote_average":0.0,"created_by":[],"production_companies":[],"cast":[],"backdrop_path":"https://image.tmdb.org/t/p/originalnull","poster_path":"https://image.tmdb.org/t/p/original/4fW5fVdjpGCMnQdnG4vdrhW639d.jpg","certification":"N/A","genres":["Animação"],"trailer":"N/A"},};
+"1251685":{"id":"1251685","name":"Crossing Point","slug":"crossing-point","original_title":"Crossing Point","overview":"N/A","first_air_date":"2020-06-18","runtime":4,"episode_run_time":[4],"vote_average":0.0,"created_by":[],"production_companies":[],"cast":[],"backdrop_path":"https://image.tmdb.org/t/p/originalnull","poster_path":"https://image.tmdb.org/t/p/original/4fW5fVdjpGCMnQdnG4vdrhW639d.jpg","certification":"N/A","genres":["Animação"],"trailer":"N/A"},
+{
+  "696506": {
+    "id": "696506",
+    "name": "Mickey 17",
+    "slug": "mickey-17",
+    "original_title": "Mickey 17",
+    "overview": "Mickey faz parte de um programa espacial de colonização e sempre é enviado para missões perigosas, quase suicidas. Se morrer, ele é clonado e boa parte de suas memórias são recuperadas. Mas, após seis mortes, ele começa a entender o porquê de seu cargo nunca ter sido ocupado antes.",
+    "first_air_date": "2025-02-28",
+    "runtime": 137,
+    "episode_run_time": [
+      137
+    ],
+    "vote_average": 7.2,
+    "created_by": [
+      "Warner Bros. Pictures",
+      "Plan B Entertainment",
+      "Offscreen",
+      "Kate Street Picture Company",
+      "Domain Entertainment"
+    ],
+    "production_companies": [
+      {
+        "name": "Warner Bros. Pictures"
+      },
+      {
+        "name": "Plan B Entertainment"
+      },
+      {
+        "name": "Offscreen"
+      },
+      {
+        "name": "Kate Street Picture Company"
+      },
+      {
+        "name": "Domain Entertainment"
+      }
+    ],
+    "cast": [
+      "Robert Pattinson",
+      "Naomi Ackie",
+      "Steven Yeun",
+      "Toni Collette",
+      "Mark Ruffalo"
+    ],
+    "backdrop_path": "https://image.tmdb.org/t/p/original/2P0PUkQ1tNHNYTEmtbBmM8MfXBG.jpg",
+    "poster_path": "https://image.tmdb.org/t/p/original/5eZTyuqOzK4PuKrcOX3ixafBjcd.jpg",
+    "certification": "16",
+    "genres": [
+      "Ficção científica",
+      "Comédia",
+      "Aventura",
+      "Ação"
+    ],
+    "trailer": "N/A"
+  }
+}                      
+                      };
