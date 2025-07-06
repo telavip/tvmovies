@@ -512,7 +512,7 @@ const movies12 = [{"id":501,"slug":"o-homem-urso","type":"filme","title":"O Home
   ],
   "first_air_date": "2025-07-01",
   "popularity": 350.0499,
-  "vote_average": 6.469,
+  "vote_average": 6.4,
   "poster_path": "https://image.tmdb.org/t/p/w200/g81Wxr9rskMsmKx3RoPZP6PnlkX.jpg",
   "networks": [
     33,
@@ -577,7 +577,7 @@ const movies12 = [{"id":501,"slug":"o-homem-urso","type":"filme","title":"O Home
   ],
   "first_air_date": "2025-07-01",
   "popularity": 605.4355,
-  "vote_average": 6.148,
+  "vote_average": 6.1,
   "poster_path": "https://image.tmdb.org/t/p/w200/wqfu3bPLJaEWJVk3QOm0rKhxf1A.jpg",
   "networks": [
     82819,
@@ -600,7 +600,7 @@ const movies12 = [{"id":501,"slug":"o-homem-urso","type":"filme","title":"O Home
   ],
   "first_air_date": "2025-06-24",
   "popularity": 447.9919,
-  "vote_average": 7.007,
+  "vote_average": 7.0,
   "poster_path": "https://image.tmdb.org/t/p/w200/kSWYR3yqlbOIJdqRop970ce5mBS.jpg",
   "networks": [
     11565,
@@ -623,7 +623,7 @@ const movies12 = [{"id":501,"slug":"o-homem-urso","type":"filme","title":"O Home
   ],
   "first_air_date": "2025-06-04",
   "popularity": 702.4255,
-  "vote_average": 7.292,
+  "vote_average": 7.2,
   "poster_path": "https://image.tmdb.org/t/p/w200/by5hjYJp3OJ8GW118kPeURp1rFo.jpg",
   "networks": [
     3528,
@@ -646,7 +646,7 @@ const movies12 = [{"id":501,"slug":"o-homem-urso","type":"filme","title":"O Home
   ],
   "first_air_date": "2025-05-01",
   "popularity": 43.8112,
-  "vote_average": 6.25,
+  "vote_average": 6.2,
   "poster_path": "https://image.tmdb.org/t/p/w200/buiy7xS3Q78ii3HWFKL2GIoMu4N.jpg",
   "networks": [
     1632,
@@ -670,7 +670,7 @@ const movies12 = [{"id":501,"slug":"o-homem-urso","type":"filme","title":"O Home
   ],
   "first_air_date": "2025-05-23",
   "popularity": 54.2606,
-  "vote_average": 6.865,
+  "vote_average": 6.8,
   "poster_path": "https://image.tmdb.org/t/p/w200/vL2tEhfa4UsazLURzHu2KpXLERS.jpg",
   "networks": [
     9350,
@@ -695,7 +695,7 @@ const movies12 = [{"id":501,"slug":"o-homem-urso","type":"filme","title":"O Home
   ],
   "first_air_date": "2025-06-18",
   "popularity": 45.3864,
-  "vote_average": 6.72,
+  "vote_average": 6.7,
   "poster_path": "https://image.tmdb.org/t/p/w200/yt6VGEUxzwDodTq56D1pEX3TFYw.jpg",
   "networks": [
     3
@@ -716,7 +716,7 @@ const movies12 = [{"id":501,"slug":"o-homem-urso","type":"filme","title":"O Home
   ],
   "first_air_date": "2025-06-25",
   "popularity": 113.276,
-  "vote_average": 7.212,
+  "vote_average": 7.2,
   "poster_path": "https://image.tmdb.org/t/p/w200/q2PIq2SwizKNzWD37KBV1TH10fc.jpg",
   "networks": [
     3172,
@@ -738,7 +738,7 @@ const movies12 = [{"id":501,"slug":"o-homem-urso","type":"filme","title":"O Home
   ],
   "first_air_date": "2025-06-25",
   "popularity": 225.9971,
-  "vote_average": 7.676,
+  "vote_average": 7.6,
   "poster_path": "https://image.tmdb.org/t/p/w200/gxYDG8IpN9x6Cxtz09W3QpH0is6.jpg",
   "networks": [
     81,
@@ -762,7 +762,7 @@ const movies12 = [{"id":501,"slug":"o-homem-urso","type":"filme","title":"O Home
   ],
   "first_air_date": "2025-03-20",
   "popularity": 16.9593,
-  "vote_average": 6.256,
+  "vote_average": 6.2,
   "poster_path": "https://image.tmdb.org/t/p/w200/vDpjYWzMTQg5lQ53hlck7NX9TJB.jpg",
   "networks": [
     220749,
@@ -795,7 +795,7 @@ const movies12 = [{"id":501,"slug":"o-homem-urso","type":"filme","title":"O Home
   ],
   "first_air_date": "2025-06-18",
   "popularity": 143.7602,
-  "vote_average": 7.227,
+  "vote_average": 7.2,
   "poster_path": "https://image.tmdb.org/t/p/w200/rN1G5YsRS5pzCx3hdkEBN8NKn2R.jpg",
   "networks": [
     5,
@@ -818,7 +818,7 @@ const movies12 = [{"id":501,"slug":"o-homem-urso","type":"filme","title":"O Home
   ],
   "first_air_date": "2025-05-14",
   "popularity": 360.6209,
-  "vote_average": 7.202,
+  "vote_average": 7.2,
   "poster_path": "https://image.tmdb.org/t/p/w200/niTRdfNCT29PXU9YpPPuISrBIw7.jpg",
   "networks": [
     12,
@@ -843,7 +843,7 @@ const movies12 = [{"id":501,"slug":"o-homem-urso","type":"filme","title":"O Home
   ],
   "first_air_date": "2025-06-06",
   "popularity": 228.4281,
-  "vote_average": 7.896,
+  "vote_average": 7.2,
   "poster_path": "https://image.tmdb.org/t/p/w200/dw7Tw4EvonhLCso2rzMVe28OYzo.jpg",
   "networks": [
     521,
@@ -864,7 +864,7 @@ const movies12 = [{"id":501,"slug":"o-homem-urso","type":"filme","title":"O Home
   ],
   "first_air_date": "2025-04-09",
   "popularity": 117.2512,
-  "vote_average": 6.999,
+  "vote_average": 6.9,
   "poster_path": "https://image.tmdb.org/t/p/w200/bAQAGxxqwK8bcqEYLEo6cN7UNn6.jpg",
   "networks": [
     127928,
@@ -887,7 +887,7 @@ const movies12 = [{"id":501,"slug":"o-homem-urso","type":"filme","title":"O Home
   ],
   "first_air_date": "2025-04-23",
   "popularity": 82.0405,
-  "vote_average": 7.207,
+  "vote_average": 7.2,
   "poster_path": "https://image.tmdb.org/t/p/w200/qWCgzVymNRJo2RyukwDaDA0eK1c.jpg",
   "networks": [
     187968,
@@ -911,7 +911,7 @@ const movies12 = [{"id":501,"slug":"o-homem-urso","type":"filme","title":"O Home
   ],
   "first_air_date": "2025-02-27",
   "popularity": 40.5092,
-  "vote_average": 6.531,
+  "vote_average": 6.5,
   "poster_path": "https://image.tmdb.org/t/p/w200/c3gA6bnnsXG2JoHBBkXsD6w6emm.jpg",
   "networks": [
     47,
