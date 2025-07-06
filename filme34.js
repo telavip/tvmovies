@@ -246,7 +246,6 @@ window.series34Data = {"1281903":{"id":"1281903","name":"As Férias De Verão De
     ],
     "trailer": "VC5MX4oSq0w"
   },  
- {
   "1234821": {
     "id": "1234821",
     "name": "Jurassic World: Recomeço",
@@ -287,9 +286,7 @@ window.series34Data = {"1281903":{"id":"1281903","name":"As Férias De Verão De
       "Ação"
     ],
     "trailer": "jan5CFWs9ic"
-  }
 },
-{
   "1287536": {
     "id": "1287536",
     "name": "Dora e a Busca pelo Sol Dourado",
@@ -330,9 +327,7 @@ window.series34Data = {"1281903":{"id":"1281903","name":"As Férias De Verão De
       "Família"
     ],
     "trailer": "Bgntm6ttlLc"
-  }
 },
-{
   "1151031": {
     "id": "1151031",
     "name": "Faça Ela Voltar",
@@ -379,9 +374,7 @@ window.series34Data = {"1281903":{"id":"1281903","name":"As Férias De Verão De
       "Terror"
     ],
     "trailer": "R7ADiKcVexo"
-  }
 },
-{
   "846422": {
     "id": "846422",
     "name": "The Old Guard 2",
@@ -425,9 +418,7 @@ window.series34Data = {"1281903":{"id":"1281903","name":"As Férias De Verão De
       "Fantasia"
     ],
     "trailer": "LWxRmgIR3_U"
-  }
 },
-{
   "749170": {
     "id": "749170",
     "name": "Chefes de Estado",
@@ -472,9 +463,7 @@ window.series34Data = {"1281903":{"id":"1281903","name":"As Férias De Verão De
       "Comédia"
     ],
     "trailer": "BRr3sC0fNYk"
-  }
 },
-{
   "541671": {
     "id": "541671",
     "name": "Bailarina - Do Universo de John Wick",
@@ -519,9 +508,7 @@ window.series34Data = {"1281903":{"id":"1281903","name":"As Férias De Verão De
       "Crime"
     ],
     "trailer": "XdJgqI_PXjI"
-  }
 },
-{
   "757725": {
     "id": "757725",
     "name": "Shadow Force – Sentença de Morte",
@@ -574,9 +561,7 @@ window.series34Data = {"1281903":{"id":"1281903","name":"As Férias De Verão De
       "Thriller"
     ],
     "trailer": "-j2j0jn7Rlc"
-  }
 },
-{
   "1137350": {
     "id": "1137350",
     "name": "O Esquema Fenício",
@@ -620,9 +605,7 @@ window.series34Data = {"1281903":{"id":"1281903","name":"As Férias De Verão De
       "Comédia"
     ],
     "trailer": "wxidk8ygmBo"
-  }
 },
-{
   "1022787": {
     "id": "1022787",
     "name": "Elio",
@@ -661,9 +644,7 @@ window.series34Data = {"1281903":{"id":"1281903","name":"As Férias De Verão De
       "Ficção científica"
     ],
     "trailer": "sAiWywScOMU"
-  }
 },
-{
   "1071585": {
     "id": "1071585",
     "name": "M3GAN 2.0",
@@ -708,9 +689,7 @@ window.series34Data = {"1281903":{"id":"1281903","name":"As Férias De Verão De
       "Thriller"
     ],
     "trailer": "kX8yjM09qLQ"
-  }
 },
-{
   "911430": {
     "id": "911430",
     "name": "F1 - O Filme",
@@ -762,9 +741,7 @@ window.series34Data = {"1281903":{"id":"1281903","name":"As Férias De Verão De
       "Drama"
     ],
     "trailer": "WKLMXlodrHw"
-  }
 },
-{
   "1083968": {
     "id": "1083968",
     "name": "Confinado",
@@ -848,9 +825,7 @@ window.series34Data = {"1281903":{"id":"1281903","name":"As Férias De Verão De
       "Terror"
     ],
     "trailer": "yxLyDnu-tF8"
-  }
 },
-{
   "1100988": {
     "id": "1100988",
     "name": "Extermínio: A Evolução",
@@ -899,7 +874,6 @@ window.series34Data = {"1281903":{"id":"1281903","name":"As Férias De Verão De
       "Ficção científica"
     ],
     "trailer": "VHyLdWMX8P4"
-  }
 },
 {
   "574475": {
@@ -953,9 +927,7 @@ window.series34Data = {"1281903":{"id":"1281903","name":"As Férias De Verão De
       "Mistério"
     ],
     "trailer": "x4xsMz-L4hk"
-  }
 },
-{
   "1087192": {
     "id": "1087192",
     "name": "Como Treinar o Seu Dragão",
@@ -996,9 +968,7 @@ window.series34Data = {"1281903":{"id":"1281903","name":"As Férias De Verão De
       "Ação"
     ],
     "trailer": "CWTy1ukPoYY"
-  }
 },
-{
   "1087891": {
     "id": "1087891",
     "name": "Operação Vingança",
@@ -1042,9 +1012,7 @@ window.series34Data = {"1281903":{"id":"1281903","name":"As Férias De Verão De
       "Ação"
     ],
     "trailer": "y3YWAXJKPes"
-  }
 },
-{
   "870028": {
     "id": "870028",
     "name": "O Contador 2",
@@ -1093,9 +1061,7 @@ window.series34Data = {"1281903":{"id":"1281903","name":"As Férias De Verão De
       "Thriller"
     ],
     "trailer": "JdXWiMOsvZg"
-  }
 },
-{
   "324544": {
     "id": "324544",
     "name": "Nas Terras Perdidas",
@@ -1136,7 +1102,6 @@ window.series34Data = {"1281903":{"id":"1281903","name":"As Férias De Verão De
       "Aventura"
     ],
     "trailer": "z3-VUCDlQoA"
-  }
 },
 
                       };
