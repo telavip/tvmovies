@@ -919,6 +919,5 @@ const movies12 = [{"id":501,"slug":"o-homem-urso","type":"filme","title":"O Home
   ],
   "certification": "16",
   "runtime": 101
-},
-
+}
 ];
