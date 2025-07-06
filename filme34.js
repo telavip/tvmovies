@@ -257,7 +257,7 @@ window.series34Data = {"1281903":{"id":"1281903","name":"As Férias De Verão De
     "episode_run_time": [
       134
     ],
-    "vote_average": "6.469",
+    "vote_average": 6.469,
     "created_by": [
       "Universal Pictures",
       "Amblin Entertainment"
@@ -298,7 +298,7 @@ window.series34Data = {"1281903":{"id":"1281903","name":"As Férias De Verão De
     "episode_run_time": [
       96
     ],
-    "vote_average": "7",
+    "vote_average": 7,
     "created_by": [
       "Nickelodeon Movies",
       "Walsh Valdés Productions"
@@ -339,7 +339,7 @@ window.series34Data = {"1281903":{"id":"1281903","name":"As Férias De Verão De
     "episode_run_time": [
       104
     ],
-    "vote_average": "7",
+    "vote_average": 7,
     "created_by": [
       "Causeway Films",
       "Blue Bear",
@@ -386,7 +386,7 @@ window.series34Data = {"1281903":{"id":"1281903","name":"As Férias De Verão De
     "episode_run_time": [
       107
     ],
-    "vote_average": "6.148",
+    "vote_average": 6.148,
     "created_by": [
       "Skydance Media",
       "Denver & Delilah Productions",
@@ -430,7 +430,7 @@ window.series34Data = {"1281903":{"id":"1281903","name":"As Férias De Verão De
     "episode_run_time": [
       113
     ],
-    "vote_average": "7.007",
+    "vote_average": 7.007,
     "created_by": [
       "The Safran Company",
       "Big Indie Pictures",
@@ -475,7 +475,7 @@ window.series34Data = {"1281903":{"id":"1281903","name":"As Férias De Verão De
     "episode_run_time": [
       125
     ],
-    "vote_average": "7.292",
+    "vote_average": 7.292,
     "created_by": [
       "Thunder Road",
       "87Eleven",
@@ -520,7 +520,7 @@ window.series34Data = {"1281903":{"id":"1281903","name":"As Férias De Verão De
     "episode_run_time": [
       104
     ],
-    "vote_average": "6.25",
+    "vote_average": 6.25,
     "created_by": [
       "Lionsgate",
       "Made With Love Media",
@@ -573,7 +573,7 @@ window.series34Data = {"1281903":{"id":"1281903","name":"As Férias De Verão De
     "episode_run_time": [
       101
     ],
-    "vote_average": "6.865",
+    "vote_average": 6.865,
     "created_by": [
       "Indian Paintbrush",
       "American Empirical Pictures",
@@ -617,7 +617,7 @@ window.series34Data = {"1281903":{"id":"1281903","name":"As Férias De Verão De
     "episode_run_time": [
       100
     ],
-    "vote_average": "6.72",
+    "vote_average": 6.72,
     "created_by": [
       "Pixar"
     ],
@@ -656,7 +656,7 @@ window.series34Data = {"1281903":{"id":"1281903","name":"As Férias De Verão De
     "episode_run_time": [
       119
     ],
-    "vote_average": "7.212",
+    "vote_average": 7.212,
     "created_by": [
       "Blumhouse Productions",
       "Atomic Monster",
@@ -701,7 +701,7 @@ window.series34Data = {"1281903":{"id":"1281903","name":"As Férias De Verão De
     "episode_run_time": [
       155
     ],
-    "vote_average": "7.676",
+    "vote_average": 7.676,
     "created_by": [
       "Plan B Entertainment",
       "Jerry Bruckheimer Films",
@@ -753,7 +753,7 @@ window.series34Data = {"1281903":{"id":"1281903","name":"As Férias De Verão De
     "episode_run_time": [
       95
     ],
-    "vote_average": "6.256",
+    "vote_average": 6.256,
     "created_by": [
       "north.five.six",
       "ZQ Entertainment",
@@ -837,7 +837,7 @@ window.series34Data = {"1281903":{"id":"1281903","name":"As Férias De Verão De
     "episode_run_time": [
       115
     ],
-    "vote_average": "7.227",
+    "vote_average": 7.227,
     "created_by": [
       "Columbia Pictures",
       "DNA Films",
@@ -887,7 +887,7 @@ window.series34Data = {"1281903":{"id":"1281903","name":"As Férias De Verão De
     "episode_run_time": [
       110
     ],
-    "vote_average": "7.202",
+    "vote_average": 7.202,
     "created_by": [
       "New Line Cinema",
       "Practical Pictures",
@@ -939,7 +939,7 @@ window.series34Data = {"1281903":{"id":"1281903","name":"As Férias De Verão De
     "episode_run_time": [
       125
     ],
-    "vote_average": "7.896",
+    "vote_average": 7.896,
     "created_by": [
       "DreamWorks Animation",
       "Marc Platt Productions"
@@ -980,7 +980,7 @@ window.series34Data = {"1281903":{"id":"1281903","name":"As Férias De Verão De
     "episode_run_time": [
       123
     ],
-    "vote_average": "6.999",
+    "vote_average": 6.999,
     "created_by": [
       "20th Century Studios",
       "Hutch Parker Entertainment",
@@ -1024,7 +1024,7 @@ window.series34Data = {"1281903":{"id":"1281903","name":"As Férias De Verão De
     "episode_run_time": [
       132
     ],
-    "vote_average": "7.207",
+    "vote_average": 7.207,
     "created_by": [
       "Artists Equity",
       "51 Entertainment",
@@ -1073,7 +1073,7 @@ window.series34Data = {"1281903":{"id":"1281903","name":"As Férias De Verão De
     "episode_run_time": [
       101
     ],
-    "vote_average": "6.531",
+    "vote_average": 6.531,
     "created_by": [
       "Constantin Film",
       "Spark Productions"
