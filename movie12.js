@@ -498,4 +498,427 @@ const movies12 = [{"id":501,"slug":"o-homem-urso","type":"filme","title":"O Home
 {"id":19165,"slug":"em-busca-do-vale-encantado-v-a-ilha-misteriosa","type":"filme","title":"Em Busca do Vale Encantado V: A Ilha Misteriosa","original_title":"The Land Before Time V: The Mysterious Island","genre_ids":[16,10751,12],"first_air_date":"1997-09-12","popularity":10.398,"vote_average":6.2,"poster_path":"https://image.tmdb.org/t/p/w200/ivgTNiMRRByVNIV3knRz38BT48r.jpg","networks":[],"certification":"L","runtime":74},
 {"id":310569,"slug":"que-horas-ela-volta","type":"filme","title":"Que Horas Ela Volta?","original_title":"Que Horas Ela Volta?","genre_ids":[18],"first_air_date":"2015-06-04","popularity":9.189,"vote_average":8.0,"poster_path":"https://image.tmdb.org/t/p/w200/y7snoPWbq4qVUqwlmHPTixURapd.jpg","networks":[8,1796],"certification":"12","runtime":112},
 {"id":401561,"slug":"mae-e-pai","type":"filme","title":"Mãe e Pai","original_title":"Mom and Dad","genre_ids":[35,27,53],"first_air_date":"2018-01-19","popularity":8.176,"vote_average":5.4,"poster_path":"https://image.tmdb.org/t/p/w200/8Yr4gZCPGcqx4LskxEe7wlOQm43.jpg","networks":[],"certification":"N/A","runtime":86},
-{"id":480042,"slug":"rota-de-fuga-3-o-resgate","type":"filme","title":"Rota de Fuga 3: O Resgate","original_title":"Escape Plan: The Extractors","genre_ids":[28,53],"first_air_date":"2019-06-20","popularity":13.097,"vote_average":5.4,"poster_path":"https://image.tmdb.org/t/p/w200/wTqlEF01SGo4QONor55zUPxHZGP.jpg","networks":[119,1899,307,484,1825],"certification":"16","runtime":97},];
+{"id":480042,"slug":"rota-de-fuga-3-o-resgate","type":"filme","title":"Rota de Fuga 3: O Resgate","original_title":"Escape Plan: The Extractors","genre_ids":[28,53],"first_air_date":"2019-06-20","popularity":13.097,"vote_average":5.4,"poster_path":"https://image.tmdb.org/t/p/w200/wTqlEF01SGo4QONor55zUPxHZGP.jpg","networks":[119,1899,307,484,1825],"certification":"16","runtime":97},
+{
+  "id": 1234821,
+  "slug": "jurassic-world-recomeco",
+  "type": "filme",
+  "title": "Jurassic World: Recomeço",
+  "original_title": "Jurassic World Rebirth",
+  "genre_ids": [
+    878,
+    12,
+    28
+  ],
+  "first_air_date": "2025-07-01",
+  "popularity": 350.0499,
+  "vote_average": "6.469",
+  "poster_path": "https://image.tmdb.org/t/p/w200/g81Wxr9rskMsmKx3RoPZP6PnlkX.jpg",
+  "networks": [
+    33,
+    56
+  ],
+  "certification": "14",
+  "runtime": 134
+},
+{
+  "id": 1287536,
+  "slug": "dora-e-a-busca-pelo-sol-dourado",
+  "type": "filme",
+  "title": "Dora e a Busca pelo Sol Dourado",
+  "original_title": "Dora and the Search for Sol Dorado",
+  "genre_ids": [
+    12,
+    35,
+    10751
+  ],
+  "first_air_date": "2025-07-02",
+  "popularity": 28.0344,
+  "vote_average": "7",
+  "poster_path": "https://image.tmdb.org/t/p/w200/3A0xtSvnwa7BikiWr55AQLPWMvs.jpg",
+  "networks": [
+    2348,
+    212476
+  ],
+  "certification": "N/A",
+  "runtime": 96
+},
+{
+  "id": 1151031,
+  "slug": "faca-ela-voltar",
+  "type": "filme",
+  "title": "Faça Ela Voltar",
+  "original_title": "Bring Her Back",
+  "genre_ids": [
+    27
+  ],
+  "first_air_date": "2025-05-28",
+  "popularity": 221.0102,
+  "vote_average": "7",
+  "poster_path": "https://image.tmdb.org/t/p/w200/yknXRPGfIMmRbWVUxfPuLyCcx7h.jpg",
+  "networks": [
+    32301,
+    234094,
+    150239,
+    41077
+  ],
+  "certification": "18",
+  "runtime": 104
+},
+{
+  "id": 846422,
+  "slug": "the-old-guard-2",
+  "type": "filme",
+  "title": "The Old Guard 2",
+  "original_title": "The Old Guard 2",
+  "genre_ids": [
+    28,
+    14
+  ],
+  "first_air_date": "2025-07-01",
+  "popularity": 605.4355,
+  "vote_average": "6.148",
+  "poster_path": "https://image.tmdb.org/t/p/w200/wqfu3bPLJaEWJVk3QOm0rKhxf1A.jpg",
+  "networks": [
+    82819,
+    3574,
+    159794
+  ],
+  "certification": "16",
+  "runtime": 107
+},
+{
+  "id": 749170,
+  "slug": "chefes-de-estado",
+  "type": "filme",
+  "title": "Chefes de Estado",
+  "original_title": "Heads of State",
+  "genre_ids": [
+    28,
+    53,
+    35
+  ],
+  "first_air_date": "2025-06-24",
+  "popularity": 447.9919,
+  "vote_average": "7.007",
+  "poster_path": "https://image.tmdb.org/t/p/w200/kSWYR3yqlbOIJdqRop970ce5mBS.jpg",
+  "networks": [
+    11565,
+    6831,
+    21
+  ],
+  "certification": "14",
+  "runtime": 113
+},
+{
+  "id": 541671,
+  "slug": "bailarina---do-universo-de-john-wick",
+  "type": "filme",
+  "title": "Bailarina - Do Universo de John Wick",
+  "original_title": "Ballerina",
+  "genre_ids": [
+    28,
+    53,
+    80
+  ],
+  "first_air_date": "2025-06-04",
+  "popularity": 702.4255,
+  "vote_average": "7.292",
+  "poster_path": "https://image.tmdb.org/t/p/w200/by5hjYJp3OJ8GW118kPeURp1rFo.jpg",
+  "networks": [
+    3528,
+    23008,
+    1632
+  ],
+  "certification": "18",
+  "runtime": 125
+},
+{
+  "id": 757725,
+  "slug": "shadow-force--sentenca-de-morte",
+  "type": "filme",
+  "title": "Shadow Force – Sentença de Morte",
+  "original_title": "Shadow Force",
+  "genre_ids": [
+    28,
+    18,
+    53
+  ],
+  "first_air_date": "2025-05-01",
+  "popularity": 43.8112,
+  "vote_average": "6.25",
+  "poster_path": "https://image.tmdb.org/t/p/w200/buiy7xS3Q78ii3HWFKL2GIoMu4N.jpg",
+  "networks": [
+    1632,
+    144763,
+    221429,
+    168705,
+    115026
+  ],
+  "certification": "",
+  "runtime": 104
+},
+{
+  "id": 1137350,
+  "slug": "o-esquema-fenicio",
+  "type": "filme",
+  "title": "O Esquema Fenício",
+  "original_title": "The Phoenician Scheme",
+  "genre_ids": [
+    12,
+    35
+  ],
+  "first_air_date": "2025-05-23",
+  "popularity": 54.2606,
+  "vote_average": "6.865",
+  "poster_path": "https://image.tmdb.org/t/p/w200/vL2tEhfa4UsazLURzHu2KpXLERS.jpg",
+  "networks": [
+    9350,
+    23449,
+    264
+  ],
+  "certification": "14",
+  "runtime": 101
+},
+{
+  "id": 1022787,
+  "slug": "elio",
+  "type": "filme",
+  "title": "Elio",
+  "original_title": "Elio",
+  "genre_ids": [
+    10751,
+    35,
+    12,
+    16,
+    878
+  ],
+  "first_air_date": "2025-06-18",
+  "popularity": 45.3864,
+  "vote_average": "6.72",
+  "poster_path": "https://image.tmdb.org/t/p/w200/yt6VGEUxzwDodTq56D1pEX3TFYw.jpg",
+  "networks": [
+    3
+  ],
+  "certification": "L",
+  "runtime": 100
+},
+{
+  "id": 1071585,
+  "slug": "m3gan-20",
+  "type": "filme",
+  "title": "M3GAN 2.0",
+  "original_title": "M3GAN 2.0",
+  "genre_ids": [
+    28,
+    878,
+    53
+  ],
+  "first_air_date": "2025-06-25",
+  "popularity": 113.276,
+  "vote_average": "7.212",
+  "poster_path": "https://image.tmdb.org/t/p/w200/q2PIq2SwizKNzWD37KBV1TH10fc.jpg",
+  "networks": [
+    3172,
+    76907,
+    89115
+  ],
+  "certification": "16",
+  "runtime": 119
+},
+{
+  "id": 911430,
+  "slug": "f1---o-filme",
+  "type": "filme",
+  "title": "F1 - O Filme",
+  "original_title": "F1",
+  "genre_ids": [
+    28,
+    18
+  ],
+  "first_air_date": "2025-06-25",
+  "popularity": 225.9971,
+  "vote_average": "7.676",
+  "poster_path": "https://image.tmdb.org/t/p/w200/gxYDG8IpN9x6Cxtz09W3QpH0is6.jpg",
+  "networks": [
+    81,
+    130,
+    199632,
+    194232,
+    19647
+  ],
+  "certification": "12",
+  "runtime": 155
+},
+{
+  "id": 1083968,
+  "slug": "confinado",
+  "type": "filme",
+  "title": "Confinado",
+  "original_title": "Locked",
+  "genre_ids": [
+    53,
+    27
+  ],
+  "first_air_date": "2025-03-20",
+  "popularity": 16.9593,
+  "vote_average": "6.256",
+  "poster_path": "https://image.tmdb.org/t/p/w200/vDpjYWzMTQg5lQ53hlck7NX9TJB.jpg",
+  "networks": [
+    220749,
+    192895,
+    194918,
+    55446,
+    249834,
+    121204,
+    157114,
+    107037,
+    249836,
+    2623,
+    122323,
+    185127,
+    77317
+  ],
+  "certification": "16",
+  "runtime": 95
+},
+{
+  "id": 1100988,
+  "slug": "exterminio-a-evolucao",
+  "type": "filme",
+  "title": "Extermínio: A Evolução",
+  "original_title": "28 Years Later",
+  "genre_ids": [
+    27,
+    53,
+    878
+  ],
+  "first_air_date": "2025-06-18",
+  "popularity": 143.7602,
+  "vote_average": "7.227",
+  "poster_path": "https://image.tmdb.org/t/p/w200/rN1G5YsRS5pzCx3hdkEBN8NKn2R.jpg",
+  "networks": [
+    5,
+    284,
+    8286,
+    22213
+  ],
+  "certification": "18",
+  "runtime": 115
+},
+{
+  "id": 574475,
+  "slug": "premonicao-6-lacos-de-sangue",
+  "type": "filme",
+  "title": "Premonição 6: Laços de Sangue",
+  "original_title": "Final Destination Bloodlines",
+  "genre_ids": [
+    27,
+    9648
+  ],
+  "first_air_date": "2025-05-14",
+  "popularity": 360.6209,
+  "vote_average": "7.202",
+  "poster_path": "https://image.tmdb.org/t/p/w200/niTRdfNCT29PXU9YpPPuISrBIw7.jpg",
+  "networks": [
+    12,
+    48788,
+    252366,
+    252367,
+    216687
+  ],
+  "certification": "18",
+  "runtime": 110
+},
+{
+  "id": 1087192,
+  "slug": "como-treinar-o-seu-dragao",
+  "type": "filme",
+  "title": "Como Treinar o Seu Dragão",
+  "original_title": "How to Train Your Dragon",
+  "genre_ids": [
+    14,
+    10751,
+    28
+  ],
+  "first_air_date": "2025-06-06",
+  "popularity": 228.4281,
+  "vote_average": "7.896",
+  "poster_path": "https://image.tmdb.org/t/p/w200/dw7Tw4EvonhLCso2rzMVe28OYzo.jpg",
+  "networks": [
+    521,
+    2527
+  ],
+  "certification": "10",
+  "runtime": 125
+},
+{
+  "id": 1087891,
+  "slug": "operacao-vinganca",
+  "type": "filme",
+  "title": "Operação Vingança",
+  "original_title": "The Amateur",
+  "genre_ids": [
+    53,
+    28
+  ],
+  "first_air_date": "2025-04-09",
+  "popularity": 117.2512,
+  "vote_average": "6.999",
+  "poster_path": "https://image.tmdb.org/t/p/w200/bAQAGxxqwK8bcqEYLEo6cN7UNn6.jpg",
+  "networks": [
+    127928,
+    91797,
+    256631
+  ],
+  "certification": "14",
+  "runtime": 123
+},
+{
+  "id": 870028,
+  "slug": "o-contador-2",
+  "type": "filme",
+  "title": "O Contador 2",
+  "original_title": "The Accountant²",
+  "genre_ids": [
+    9648,
+    80,
+    53
+  ],
+  "first_air_date": "2025-04-23",
+  "popularity": 82.0405,
+  "vote_average": "7.207",
+  "poster_path": "https://image.tmdb.org/t/p/w200/qWCgzVymNRJo2RyukwDaDA0eK1c.jpg",
+  "networks": [
+    187968,
+    106178,
+    5357,
+    12425
+  ],
+  "certification": "16",
+  "runtime": 132
+},
+{
+  "id": 324544,
+  "slug": "nas-terras-perdidas",
+  "type": "filme",
+  "title": "Nas Terras Perdidas",
+  "original_title": "In the Lost Lands",
+  "genre_ids": [
+    28,
+    14,
+    12
+  ],
+  "first_air_date": "2025-02-27",
+  "popularity": 40.5092,
+  "vote_average": "6.531",
+  "poster_path": "https://image.tmdb.org/t/p/w200/c3gA6bnnsXG2JoHBBkXsD6w6emm.jpg",
+  "networks": [
+    47,
+    187303
+  ],
+  "certification": "16",
+  "runtime": 101
+},
+
+];
