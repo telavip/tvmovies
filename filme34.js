@@ -246,5 +246,897 @@ window.series34Data = {"1281903":{"id":"1281903","name":"As Férias De Verão De
     ],
     "trailer": "VC5MX4oSq0w"
   },  
-                    
+ {
+  "1234821": {
+    "id": "1234821",
+    "name": "Jurassic World: Recomeço",
+    "slug": "jurassic-world-recomeco",
+    "original_title": "Jurassic World Rebirth",
+    "overview": "Este novo capítulo cheio de ação acompanha uma equipe intrépida que corre contra o tempo para obter amostras de DNA das três criaturas mais colossais da terra, do mar e do ar. Cinco anos após os eventos de Jurassic World: Domínio, a ecologia do planeta se mostrou amplamente inóspita para os dinossauros. Os remanescentes existem em ambientes equatoriais isolados, com climas semelhantes àqueles nos quais prosperaram no passado. As três criaturas mais colossais dessa biosfera tropical possuem a chave para um medicamento com benefícios milagrosos que podem salvar vidas humanas.",
+    "first_air_date": "2025-07-01",
+    "runtime": 134,
+    "episode_run_time": [
+      134
+    ],
+    "vote_average": "6.469",
+    "created_by": [
+      "Universal Pictures",
+      "Amblin Entertainment"
+    ],
+    "production_companies": [
+      {
+        "name": "Universal Pictures"
+      },
+      {
+        "name": "Amblin Entertainment"
+      }
+    ],
+    "cast": [
+      "Scarlett Johansson",
+      "Jonathan Bailey",
+      "Mahershala Ali",
+      "Rupert Friend",
+      "Manuel Garcia-Rulfo"
+    ],
+    "backdrop_path": "https://image.tmdb.org/t/p/original/peAzdLKtT6VDWIfPQO9LJD1NCG4.jpg",
+    "poster_path": "https://image.tmdb.org/t/p/original/g81Wxr9rskMsmKx3RoPZP6PnlkX.jpg",
+    "certification": "14",
+    "genres": [
+      "Ficção científica",
+      "Aventura",
+      "Ação"
+    ],
+    "trailer": "jan5CFWs9ic"
+  }
+},
+{
+  "1287536": {
+    "id": "1287536",
+    "name": "Dora e a Busca pelo Sol Dourado",
+    "slug": "dora-e-a-busca-pelo-sol-dourado",
+    "original_title": "Dora and the Search for Sol Dorado",
+    "overview": "Dora, agora com 16 anos, embarca em uma aventura pela selva amazônica com seus amigos para proteger o tesouro lendário conhecido como Sol Dorado. Para isso, eles precisam enfrentar perigos e inimigos que também buscam o poder do tesouro.",
+    "first_air_date": "2025-07-02",
+    "runtime": 96,
+    "episode_run_time": [
+      96
+    ],
+    "vote_average": "7",
+    "created_by": [
+      "Nickelodeon Movies",
+      "Walsh Valdés Productions"
+    ],
+    "production_companies": [
+      {
+        "name": "Nickelodeon Movies"
+      },
+      {
+        "name": "Walsh Valdés Productions"
+      }
+    ],
+    "cast": [
+      "Samantha Lorraine",
+      "Jacob Rodriguez",
+      "Mariana Garzón Toro",
+      "Daniella Pineda",
+      "Acston Luca Porto"
+    ],
+    "backdrop_path": "https://image.tmdb.org/t/p/original/tn1NAzCgVLI3GE5zlSYEvnPsyyK.jpg",
+    "poster_path": "https://image.tmdb.org/t/p/original/3A0xtSvnwa7BikiWr55AQLPWMvs.jpg",
+    "certification": "N/A",
+    "genres": [
+      "Aventura",
+      "Comédia",
+      "Família"
+    ],
+    "trailer": "Bgntm6ttlLc"
+  }
+},
+{
+  "1151031": {
+    "id": "1151031",
+    "name": "Faça Ela Voltar",
+    "slug": "faca-ela-voltar",
+    "original_title": "Bring Her Back",
+    "overview": "A história acompanha Andy (Billy Barratt) e Piper (Sora Wong), dois irmãos órfãos que, após encontrarem seu pai morto no banheiro,  são acolhidos no lar adotivo de Laura (Sally Hawkins), uma mãe que ainda lida com a perda da sua própria filha. Com um jeito excêntrico, Laura  além dos irmãos, também adota um jovem mudo chamado Oliver (Jonah Phillips). A casa, afastada da cidade, esconde grandes segredos, e o que seria um novo começo transforma-se rapidamente num pesadelo envolto em rituais ocultos e intenções sinistras.",
+    "first_air_date": "2025-05-28",
+    "runtime": 104,
+    "episode_run_time": [
+      104
+    ],
+    "vote_average": "7",
+    "created_by": [
+      "Causeway Films",
+      "Blue Bear",
+      "Salmira Productions",
+      "A24"
+    ],
+    "production_companies": [
+      {
+        "name": "Causeway Films"
+      },
+      {
+        "name": "Blue Bear"
+      },
+      {
+        "name": "Salmira Productions"
+      },
+      {
+        "name": "A24"
+      }
+    ],
+    "cast": [
+      "Sally Hawkins",
+      "Sora Wong",
+      "Billy Barratt",
+      "Jonah Wren Phillips",
+      "Mischa Heywood"
+    ],
+    "backdrop_path": "https://image.tmdb.org/t/p/original/iC72a9gQJruxp8C7stKB0pKCBKI.jpg",
+    "poster_path": "https://image.tmdb.org/t/p/original/yknXRPGfIMmRbWVUxfPuLyCcx7h.jpg",
+    "certification": "18",
+    "genres": [
+      "Terror"
+    ],
+    "trailer": "R7ADiKcVexo"
+  }
+},
+{
+  "846422": {
+    "id": "846422",
+    "name": "The Old Guard 2",
+    "slug": "the-old-guard-2",
+    "original_title": "The Old Guard 2",
+    "overview": "Andy e sua equipe de guerreiros imortais enfrentam uma nova ameaça poderosa que põe em risco a missão do grupo de proteger a humanidade.",
+    "first_air_date": "2025-07-01",
+    "runtime": 107,
+    "episode_run_time": [
+      107
+    ],
+    "vote_average": "6.148",
+    "created_by": [
+      "Skydance Media",
+      "Denver & Delilah Productions",
+      "Marc Evans Productions"
+    ],
+    "production_companies": [
+      {
+        "name": "Skydance Media"
+      },
+      {
+        "name": "Denver & Delilah Productions"
+      },
+      {
+        "name": "Marc Evans Productions"
+      }
+    ],
+    "cast": [
+      "Charlize Theron",
+      "KiKi Layne",
+      "Matthias Schoenaerts",
+      "Marwan Kenzari",
+      "Luca Marinelli"
+    ],
+    "backdrop_path": "https://image.tmdb.org/t/p/original/x58Gk2ZGU5AEBp25MQe2nhZhd5z.jpg",
+    "poster_path": "https://image.tmdb.org/t/p/original/wqfu3bPLJaEWJVk3QOm0rKhxf1A.jpg",
+    "certification": "16",
+    "genres": [
+      "Ação",
+      "Fantasia"
+    ],
+    "trailer": "LWxRmgIR3_U"
+  }
+},
+{
+  "749170": {
+    "id": "749170",
+    "name": "Chefes de Estado",
+    "slug": "chefes-de-estado",
+    "original_title": "Heads of State",
+    "overview": "O primeiro-ministro do Reino Unido e o presidente dos EUA têm uma rivalidade pública que ameaça a aliança de seus países. Quando se tornam o alvo de um inimigo poderoso, eles precisam confiar um no outro e embarcar numa fuga internacional. Com a ajuda de Noel, uma brilhante agente do MI6, eles devem deter uma conspiração que ameaça o mundo livre.",
+    "first_air_date": "2025-06-24",
+    "runtime": 113,
+    "episode_run_time": [
+      113
+    ],
+    "vote_average": "7.007",
+    "created_by": [
+      "The Safran Company",
+      "Big Indie Pictures",
+      "Metro-Goldwyn-Mayer"
+    ],
+    "production_companies": [
+      {
+        "name": "The Safran Company"
+      },
+      {
+        "name": "Big Indie Pictures"
+      },
+      {
+        "name": "Metro-Goldwyn-Mayer"
+      }
+    ],
+    "cast": [
+      "Idris Elba",
+      "John Cena",
+      "Priyanka Chopra Jonas",
+      "Paddy Considine",
+      "Carla Gugino"
+    ],
+    "backdrop_path": "https://image.tmdb.org/t/p/original/xABhldZaMb6wfCH5oigV333OYnb.jpg",
+    "poster_path": "https://image.tmdb.org/t/p/original/kSWYR3yqlbOIJdqRop970ce5mBS.jpg",
+    "certification": "14",
+    "genres": [
+      "Ação",
+      "Thriller",
+      "Comédia"
+    ],
+    "trailer": "BRr3sC0fNYk"
+  }
+},
+{
+  "541671": {
+    "id": "541671",
+    "name": "Bailarina - Do Universo de John Wick",
+    "slug": "bailarina---do-universo-de-john-wick",
+    "original_title": "Ballerina",
+    "overview": "Bailarina  se passa durante os eventos de ‘John Wick 3: Parabellum‘ e acompanha Eve Macarro (Ana de Armas), que está começando seu treinamento nas tradições da organização Ruska Roma para se tornar uma assassina que buscará vingança contra aqueles que destruíram sua família.  O longa ainda conta com Anjelica Huston, Gabriel Byrne, Lance Reddick, Catalina Sandino Moreno e Norman Reedus no elenco, com participações de Ian McShane e Keanu Reeves.",
+    "first_air_date": "2025-06-04",
+    "runtime": 125,
+    "episode_run_time": [
+      125
+    ],
+    "vote_average": "7.292",
+    "created_by": [
+      "Thunder Road",
+      "87Eleven",
+      "Lionsgate"
+    ],
+    "production_companies": [
+      {
+        "name": "Thunder Road"
+      },
+      {
+        "name": "87Eleven"
+      },
+      {
+        "name": "Lionsgate"
+      }
+    ],
+    "cast": [
+      "Ana de Armas",
+      "Keanu Reeves",
+      "Ian McShane",
+      "Anjelica Huston",
+      "Gabriel Byrne"
+    ],
+    "backdrop_path": "https://image.tmdb.org/t/p/original/sItIskd5xpiE64bBWYwZintkGf3.jpg",
+    "poster_path": "https://image.tmdb.org/t/p/original/by5hjYJp3OJ8GW118kPeURp1rFo.jpg",
+    "certification": "18",
+    "genres": [
+      "Ação",
+      "Thriller",
+      "Crime"
+    ],
+    "trailer": "XdJgqI_PXjI"
+  }
+},
+{
+  "757725": {
+    "id": "757725",
+    "name": "Shadow Force – Sentença de Morte",
+    "slug": "shadow-force--sentenca-de-morte",
+    "original_title": "Shadow Force",
+    "overview": "Kyrah e Isaac já foram líderes de um grupo multinacional de forças especiais chamado Shadow Force. Eles quebraram as regras ao se apaixonarem e, para proteger o filho, se rebelaram contra a instituição. Com uma grande recompensa pelas suas cabeças e a vingativa Shadow Force à procura deles, liderada pelo antigo chefe da dupla, a luta dessa família vai se tornar uma guerra.",
+    "first_air_date": "2025-05-01",
+    "runtime": 104,
+    "episode_run_time": [
+      104
+    ],
+    "vote_average": "6.25",
+    "created_by": [
+      "Lionsgate",
+      "Made With Love Media",
+      "Media Capital Technologies",
+      "Indian Meadows Productions",
+      "Simpson Street"
+    ],
+    "production_companies": [
+      {
+        "name": "Lionsgate"
+      },
+      {
+        "name": "Made With Love Media"
+      },
+      {
+        "name": "Media Capital Technologies"
+      },
+      {
+        "name": "Indian Meadows Productions"
+      },
+      {
+        "name": "Simpson Street"
+      }
+    ],
+    "cast": [
+      "Kerry Washington",
+      "Omar Sy",
+      "Jahleel Kamara",
+      "Mark Strong",
+      "Da'Vine Joy Randolph"
+    ],
+    "backdrop_path": "https://image.tmdb.org/t/p/original/lBsbWXGn9maPKGhN3fozTU3BH0r.jpg",
+    "poster_path": "https://image.tmdb.org/t/p/original/buiy7xS3Q78ii3HWFKL2GIoMu4N.jpg",
+    "certification": "",
+    "genres": [
+      "Ação",
+      "Drama",
+      "Thriller"
+    ],
+    "trailer": "-j2j0jn7Rlc"
+  }
+},
+{
+  "1137350": {
+    "id": "1137350",
+    "name": "O Esquema Fenício",
+    "slug": "o-esquema-fenicio",
+    "original_title": "The Phoenician Scheme",
+    "overview": "O excêntrico magnata Zsa-zsa Korda já sobreviveu a seis acidentes de avião e é pai de nove filhos homens e uma única menina, a freira Liesl. Ele determina que ela seja a única herdeira de seu patrimônio, mas antes, pede a ajuda da filha para garantir que seu projeto de vida saia do papel, o \"Korda Land and Sea Phoenician Infrasctructure Scheme\". Agora, eles precisarão viajar pelo mundo acompanhados pelo ingênuo tutor Bjorn negociar com empresários, empreiteiros e criminosos perigosos, confundindo-os sobre suas intenções para afastá-los do esquema.",
+    "first_air_date": "2025-05-23",
+    "runtime": 101,
+    "episode_run_time": [
+      101
+    ],
+    "vote_average": "6.865",
+    "created_by": [
+      "Indian Paintbrush",
+      "American Empirical Pictures",
+      "Studio Babelsberg"
+    ],
+    "production_companies": [
+      {
+        "name": "Indian Paintbrush"
+      },
+      {
+        "name": "American Empirical Pictures"
+      },
+      {
+        "name": "Studio Babelsberg"
+      }
+    ],
+    "cast": [
+      "Benicio del Toro",
+      "Mia Threapleton",
+      "Michael Cera",
+      "Riz Ahmed",
+      "Tom Hanks"
+    ],
+    "backdrop_path": "https://image.tmdb.org/t/p/original/w3RDV3pSpxN0C2DZ4Xpw4o5LWpI.jpg",
+    "poster_path": "https://image.tmdb.org/t/p/original/vL2tEhfa4UsazLURzHu2KpXLERS.jpg",
+    "certification": "14",
+    "genres": [
+      "Aventura",
+      "Comédia"
+    ],
+    "trailer": "wxidk8ygmBo"
+  }
+},
+{
+  "1022787": {
+    "id": "1022787",
+    "name": "Elio",
+    "slug": "elio",
+    "original_title": "Elio",
+    "overview": "Elio, um garoto oprimido com uma imaginação fértil, acaba sendo transportado acidentalmente para o Comuniverso. Identificado por engano como o embaixador da Terra para o resto do universo, Elio precisará formar novos laços com excêntricas formas de vida alienígenas, sobreviver a uma série de tribulações terríveis e, de alguma forma, descobrir quem ele realmente está destinado a ser.",
+    "first_air_date": "2025-06-18",
+    "runtime": 100,
+    "episode_run_time": [
+      100
+    ],
+    "vote_average": "6.72",
+    "created_by": [
+      "Pixar"
+    ],
+    "production_companies": [
+      {
+        "name": "Pixar"
+      }
+    ],
+    "cast": [
+      "Yonas Kibreab",
+      "Zoe Saldaña",
+      "Remy Edgerly",
+      "Brandon Moon",
+      "Brad Garrett"
+    ],
+    "backdrop_path": "https://image.tmdb.org/t/p/original/mBDoBHUZHHy9WG7dRFndjB8adhc.jpg",
+    "poster_path": "https://image.tmdb.org/t/p/original/yt6VGEUxzwDodTq56D1pEX3TFYw.jpg",
+    "certification": "L",
+    "genres": [
+      "Família",
+      "Comédia",
+      "Aventura",
+      "Animação",
+      "Ficção científica"
+    ],
+    "trailer": "sAiWywScOMU"
+  }
+},
+{
+  "1071585": {
+    "id": "1071585",
+    "name": "M3GAN 2.0",
+    "slug": "m3gan-20",
+    "original_title": "M3GAN 2.0",
+    "overview": "Uma arma robótica de nível militar conhecida como Amelia torna-se cada vez mais autoconsciente e perigosa para a raça humana. Na esperança de detê-la, Gemma decide ressuscitar M3GAN, tornando-a mais rápida, forte e letal.",
+    "first_air_date": "2025-06-25",
+    "runtime": 119,
+    "episode_run_time": [
+      119
+    ],
+    "vote_average": "7.212",
+    "created_by": [
+      "Blumhouse Productions",
+      "Atomic Monster",
+      "Divide / Conquer"
+    ],
+    "production_companies": [
+      {
+        "name": "Blumhouse Productions"
+      },
+      {
+        "name": "Atomic Monster"
+      },
+      {
+        "name": "Divide / Conquer"
+      }
+    ],
+    "cast": [
+      "Jenna Davis",
+      "Allison Williams",
+      "Violet McGraw",
+      "Іванна Сахно",
+      "Amie Donald"
+    ],
+    "backdrop_path": "https://image.tmdb.org/t/p/original/kyBOGOBUMdGWOhzECuosPSzoMpi.jpg",
+    "poster_path": "https://image.tmdb.org/t/p/original/q2PIq2SwizKNzWD37KBV1TH10fc.jpg",
+    "certification": "16",
+    "genres": [
+      "Ação",
+      "Ficção científica",
+      "Thriller"
+    ],
+    "trailer": "kX8yjM09qLQ"
+  }
+},
+{
+  "911430": {
+    "id": "911430",
+    "name": "F1 - O Filme",
+    "slug": "f1---o-filme",
+    "original_title": "F1",
+    "overview": "Sonny Hayes, a lenda do automobilismo, é persuadido a deixar a aposentadoria para liderar uma equipe de Fórmula 1 em dificuldades—e ser mentor de um jovem piloto famoso—enquanto busca mais uma oportunidade de glória.",
+    "first_air_date": "2025-06-25",
+    "runtime": 155,
+    "episode_run_time": [
+      155
+    ],
+    "vote_average": "7.676",
+    "created_by": [
+      "Plan B Entertainment",
+      "Jerry Bruckheimer Films",
+      "Dawn Apollo Films",
+      "Apple Studios",
+      "Monolith Pictures"
+    ],
+    "production_companies": [
+      {
+        "name": "Plan B Entertainment"
+      },
+      {
+        "name": "Jerry Bruckheimer Films"
+      },
+      {
+        "name": "Dawn Apollo Films"
+      },
+      {
+        "name": "Apple Studios"
+      },
+      {
+        "name": "Monolith Pictures"
+      }
+    ],
+    "cast": [
+      "Brad Pitt",
+      "Damson Idris",
+      "Javier Bardem",
+      "Kerry Condon",
+      "Tobias Menzies"
+    ],
+    "backdrop_path": "https://image.tmdb.org/t/p/original/8PHTO4a11JuZwYko7QPBUWq45wJ.jpg",
+    "poster_path": "https://image.tmdb.org/t/p/original/gxYDG8IpN9x6Cxtz09W3QpH0is6.jpg",
+    "certification": "12",
+    "genres": [
+      "Ação",
+      "Drama"
+    ],
+    "trailer": "WKLMXlodrHw"
+  }
+},
+{
+  "1083968": {
+    "id": "1083968",
+    "name": "Confinado",
+    "slug": "confinado",
+    "original_title": "Locked",
+    "overview": "O assaltante Eddie invade um SUV de luxo acreditando ter encontrado o alvo perfeito, mas cai em uma armadilha mortal. O veículo pertence a William, um autoproclamado justiceiro que impõe sua própria visão de justiça. Transformado em uma prisão sobre rodas, o carro torna cada movimento uma ameaça. Sem saída e à mercê de um inimigo frio e calculista, Eddie precisa lutar para sobreviver nesse jogo implacável.",
+    "first_air_date": "2025-03-20",
+    "runtime": 95,
+    "episode_run_time": [
+      95
+    ],
+    "vote_average": "6.256",
+    "created_by": [
+      "north.five.six",
+      "ZQ Entertainment",
+      "R.U. Robot Studios",
+      "Arcana Studio",
+      "Sillen Productions",
+      "BondIt Media Capital",
+      "Exemplary Films",
+      "Magic Button Films",
+      "Longevity Pictures",
+      "Blue Rider Pictures",
+      "Raimi Productions",
+      "The Avenue Entertainment",
+      "A-A Productions"
+    ],
+    "production_companies": [
+      {
+        "name": "north.five.six"
+      },
+      {
+        "name": "ZQ Entertainment"
+      },
+      {
+        "name": "R.U. Robot Studios"
+      },
+      {
+        "name": "Arcana Studio"
+      },
+      {
+        "name": "Sillen Productions"
+      },
+      {
+        "name": "BondIt Media Capital"
+      },
+      {
+        "name": "Exemplary Films"
+      },
+      {
+        "name": "Magic Button Films"
+      },
+      {
+        "name": "Longevity Pictures"
+      },
+      {
+        "name": "Blue Rider Pictures"
+      },
+      {
+        "name": "Raimi Productions"
+      },
+      {
+        "name": "The Avenue Entertainment"
+      },
+      {
+        "name": "A-A Productions"
+      }
+    ],
+    "cast": [
+      "Bill Skarsgård",
+      "Anthony Hopkins",
+      "Ashley Cartwright",
+      "Michael Eklund",
+      "Navid Charkhi"
+    ],
+    "backdrop_path": "https://image.tmdb.org/t/p/original/r4X2xRrWleVgx0kahP27xRmm3ia.jpg",
+    "poster_path": "https://image.tmdb.org/t/p/original/vDpjYWzMTQg5lQ53hlck7NX9TJB.jpg",
+    "certification": "16",
+    "genres": [
+      "Thriller",
+      "Terror"
+    ],
+    "trailer": "yxLyDnu-tF8"
+  }
+},
+{
+  "1100988": {
+    "id": "1100988",
+    "name": "Extermínio: A Evolução",
+    "slug": "exterminio-a-evolucao",
+    "original_title": "28 Years Later",
+    "overview": "Já se passaram quase três décadas desde que o vírus da raiva escapou de um laboratório de armas biológicas. Agora, sob uma quarentena rigidamente imposta, alguns conseguiram encontrar maneiras de sobreviver em meio aos infectados. Um desses grupos vive em uma pequena ilha, ligada ao continente por uma única passagem fortemente protegida. Quando um dos membros parte em uma missão rumo ao sombrio coração do continente, ele descobre segredos, maravilhas e horrores que transformaram não apenas os infectados, mas também outros sobreviventes.",
+    "first_air_date": "2025-06-18",
+    "runtime": 115,
+    "episode_run_time": [
+      115
+    ],
+    "vote_average": "7.227",
+    "created_by": [
+      "Columbia Pictures",
+      "DNA Films",
+      "Decibel Films",
+      "TSG Entertainment"
+    ],
+    "production_companies": [
+      {
+        "name": "Columbia Pictures"
+      },
+      {
+        "name": "DNA Films"
+      },
+      {
+        "name": "Decibel Films"
+      },
+      {
+        "name": "TSG Entertainment"
+      }
+    ],
+    "cast": [
+      "Alfie Williams",
+      "Jodie Comer",
+      "Aaron Taylor-Johnson",
+      "Ralph Fiennes",
+      "Edvin Ryding"
+    ],
+    "backdrop_path": "https://image.tmdb.org/t/p/original/6WqqEjiycNvDLjbEClM1zCwIbDD.jpg",
+    "poster_path": "https://image.tmdb.org/t/p/original/rN1G5YsRS5pzCx3hdkEBN8NKn2R.jpg",
+    "certification": "18",
+    "genres": [
+      "Terror",
+      "Thriller",
+      "Ficção científica"
+    ],
+    "trailer": "VHyLdWMX8P4"
+  }
+},
+{
+  "574475": {
+    "id": "574475",
+    "name": "Premonição 6: Laços de Sangue",
+    "slug": "premonicao-6-lacos-de-sangue",
+    "original_title": "Final Destination Bloodlines",
+    "overview": "Atormentada por um pesadelo violento recorrente, a estudante universitária Stefanie volta para casa para encontrar a única pessoa que pode quebrar o ciclo e salvar sua família do destino horrível que inevitavelmente os aguarda.",
+    "first_air_date": "2025-05-14",
+    "runtime": 110,
+    "episode_run_time": [
+      110
+    ],
+    "vote_average": "7.202",
+    "created_by": [
+      "New Line Cinema",
+      "Practical Pictures",
+      "Freshman Year",
+      "Fireside Films",
+      "Domain Entertainment"
+    ],
+    "production_companies": [
+      {
+        "name": "New Line Cinema"
+      },
+      {
+        "name": "Practical Pictures"
+      },
+      {
+        "name": "Freshman Year"
+      },
+      {
+        "name": "Fireside Films"
+      },
+      {
+        "name": "Domain Entertainment"
+      }
+    ],
+    "cast": [
+      "Kaitlyn Santa Juana",
+      "Teo Briones",
+      "Rya Kihlstedt",
+      "Richard Harmon",
+      "Owen Patrick Joyner"
+    ],
+    "backdrop_path": "https://image.tmdb.org/t/p/original/uIpJPDNFoeX0TVml9smPrs9KUVx.jpg",
+    "poster_path": "https://image.tmdb.org/t/p/original/niTRdfNCT29PXU9YpPPuISrBIw7.jpg",
+    "certification": "18",
+    "genres": [
+      "Terror",
+      "Mistério"
+    ],
+    "trailer": "x4xsMz-L4hk"
+  }
+},
+{
+  "1087192": {
+    "id": "1087192",
+    "name": "Como Treinar o Seu Dragão",
+    "slug": "como-treinar-o-seu-dragao",
+    "original_title": "How to Train Your Dragon",
+    "overview": "Filho cheio de imaginação, mas negligenciado, do Chefe Stoico, Soluço desafia séculos de tradição quando faz amizade com Banguela, um temido dragão Fúria da Noite. Seu vínculo improvável revela a verdadeira natureza dos dragões, desafiando os próprios fundamentos da sociedade viking. Com a feroz e ambiciosa Astrid e o peculiar ferreiro Bocão Bonarroto ao seu lado, Soluço confronta um mundo dilacerado pelo medo e por mal-entendidos. Quando uma antiga ameaça reaparece, colocando em perigo tanto os vikings quanto os dragões, a amizade de Soluço e Banguela se torna a chave para forjar um novo futuro. Juntos, eles devem trilhar o delicado caminho em direção à paz, ultrapassando os limites de seus mundos e redefinindo o que significa ser herói e líder.",
+    "first_air_date": "2025-06-06",
+    "runtime": 125,
+    "episode_run_time": [
+      125
+    ],
+    "vote_average": "7.896",
+    "created_by": [
+      "DreamWorks Animation",
+      "Marc Platt Productions"
+    ],
+    "production_companies": [
+      {
+        "name": "DreamWorks Animation"
+      },
+      {
+        "name": "Marc Platt Productions"
+      }
+    ],
+    "cast": [
+      "Mason Thames",
+      "Nico Parker",
+      "Gerard Butler",
+      "Nick Frost",
+      "Gabriel Howell"
+    ],
+    "backdrop_path": "https://image.tmdb.org/t/p/original/7HqLLVjdjhXS0Qoz1SgZofhkIpE.jpg",
+    "poster_path": "https://image.tmdb.org/t/p/original/dw7Tw4EvonhLCso2rzMVe28OYzo.jpg",
+    "certification": "10",
+    "genres": [
+      "Fantasia",
+      "Família",
+      "Ação"
+    ],
+    "trailer": "CWTy1ukPoYY"
+  }
+},
+{
+  "1087891": {
+    "id": "1087891",
+    "name": "Operação Vingança",
+    "slug": "operacao-vinganca",
+    "original_title": "The Amateur",
+    "overview": "Depois que sua esposa é tragicamente morta em um ataque terrorista em Londres, um criptógrafo da CIA exige que seus chefes vão atrás dos assassinos. Quando fica claro que eles não agirão devido a prioridades internas conflitantes, ele chantageia a agência para treiná-lo e deixá-lo ir atrás deles sozinho.",
+    "first_air_date": "2025-04-09",
+    "runtime": 123,
+    "episode_run_time": [
+      123
+    ],
+    "vote_average": "6.999",
+    "created_by": [
+      "20th Century Studios",
+      "Hutch Parker Entertainment",
+      "Joel B. Michaels Productions"
+    ],
+    "production_companies": [
+      {
+        "name": "20th Century Studios"
+      },
+      {
+        "name": "Hutch Parker Entertainment"
+      },
+      {
+        "name": "Joel B. Michaels Productions"
+      }
+    ],
+    "cast": [
+      "Rami Malek",
+      "Holt McCallany",
+      "Danny Sapani",
+      "Rachel Brosnahan",
+      "Michael Stuhlbarg"
+    ],
+    "backdrop_path": "https://image.tmdb.org/t/p/original/6van4BavoNXaZhCPdzLHNQ4Uc8H.jpg",
+    "poster_path": "https://image.tmdb.org/t/p/original/bAQAGxxqwK8bcqEYLEo6cN7UNn6.jpg",
+    "certification": "14",
+    "genres": [
+      "Thriller",
+      "Ação"
+    ],
+    "trailer": "y3YWAXJKPes"
+  }
+},
+{
+  "870028": {
+    "id": "870028",
+    "name": "O Contador 2",
+    "slug": "o-contador-2",
+    "original_title": "The Accountant²",
+    "overview": "Quando um conhecido é assassinado, deixando para trás uma mensagem enigmática, Christian Wolff se sente compelido a resolver o caso. Percebendo que medidas extremas são necessárias, Wolff recruta seu irmão distante e altamente letal, Brax, e os dois descobrem uma conspiração mortal, tornando-se alvos de uma rede de assassinos.",
+    "first_air_date": "2025-04-23",
+    "runtime": 132,
+    "episode_run_time": [
+      132
+    ],
+    "vote_average": "7.207",
+    "created_by": [
+      "Artists Equity",
+      "51 Entertainment",
+      "Zero Gravity Management",
+      "Filmtribe"
+    ],
+    "production_companies": [
+      {
+        "name": "Artists Equity"
+      },
+      {
+        "name": "51 Entertainment"
+      },
+      {
+        "name": "Zero Gravity Management"
+      },
+      {
+        "name": "Filmtribe"
+      }
+    ],
+    "cast": [
+      "Ben Affleck",
+      "Jon Bernthal",
+      "Cynthia Addai-Robinson",
+      "J.K. Simmons",
+      "Allison Robertson"
+    ],
+    "backdrop_path": "https://image.tmdb.org/t/p/original/yBDvgpyynDsbMyK21FoQu1c2wYR.jpg",
+    "poster_path": "https://image.tmdb.org/t/p/original/qWCgzVymNRJo2RyukwDaDA0eK1c.jpg",
+    "certification": "16",
+    "genres": [
+      "Mistério",
+      "Crime",
+      "Thriller"
+    ],
+    "trailer": "JdXWiMOsvZg"
+  }
+},
+{
+  "324544": {
+    "id": "324544",
+    "name": "Nas Terras Perdidas",
+    "slug": "nas-terras-perdidas",
+    "original_title": "In the Lost Lands",
+    "overview": "Uma rainha, desesperada para ganhar o dom da mudança de forma, toma uma atitude ousada: contrata a feiticeira Gray Alys, uma mulher tão temida quanto poderosa. Enviada para a selva fantasmagórica das Terras Perdidas, Alys e seu guia, o andarilho Boyce, devem enganar e lutar contra o homem e o diabo em uma fábula que explora a natureza do bem e do mal, da dívida e da satisfação, do amor e da perda.",
+    "first_air_date": "2025-02-27",
+    "runtime": 101,
+    "episode_run_time": [
+      101
+    ],
+    "vote_average": "6.531",
+    "created_by": [
+      "Constantin Film",
+      "Spark Productions"
+    ],
+    "production_companies": [
+      {
+        "name": "Constantin Film"
+      },
+      {
+        "name": "Spark Productions"
+      }
+    ],
+    "cast": [
+      "Milla Jovovich",
+      "Dave Bautista",
+      "Arly Jover",
+      "Amara Okereke",
+      "Fraser James"
+    ],
+    "backdrop_path": "https://image.tmdb.org/t/p/original/op3qmNhvwEvyT7UFyPbIfQmKriB.jpg",
+    "poster_path": "https://image.tmdb.org/t/p/original/c3gA6bnnsXG2JoHBBkXsD6w6emm.jpg",
+    "certification": "16",
+    "genres": [
+      "Ação",
+      "Fantasia",
+      "Aventura"
+    ],
+    "trailer": "z3-VUCDlQoA"
+  }
+},
+
                       };
