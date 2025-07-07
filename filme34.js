@@ -875,7 +875,6 @@ window.series34Data = {"1281903":{"id":"1281903","name":"As Férias De Verão De
     ],
     "trailer": "VHyLdWMX8P4"
 },
-{
   "574475": {
     "id": "574475",
     "name": "Premonição 6: Laços de Sangue",
